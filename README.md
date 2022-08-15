@@ -21,4 +21,5 @@ Enviroment:
 Software:
 
   * Jupyter Notebook
+  * Anaconda Navigator 2.2.0 conda 4.13.0
   * PostgreSQL and PgAdmin
